@@ -67,4 +67,13 @@ With cyber adversaries attempting to sabotage key company platforms, you'll work
 Harness this 40-hour journey to fortify your cyber skills, network with professionals, and prepare for the challenges of the digital age.
 </p1>
 
+<h3><ins>States</ins></h3>
+<ul>
+<li>Arizona</li><br>
+<li>New York</li><br>
+<li>California</li><br>
+<li>Nevada</li><br>
+<li>Utah</li><br>
+<li>Virginia</li>
+</ul>
 
