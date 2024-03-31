@@ -77,3 +77,5 @@ Harness this 40-hour journey to fortify your cyber skills, network with professi
 <li>Virginia</li>
 </ul>
 
+<h3>Critical Infrastructure</h3>
+
