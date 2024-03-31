@@ -71,6 +71,8 @@ Harness this 40-hour journey to fortify your cyber skills, network with professi
 <ul>
   <h3><li><a href="https://github.com/WorkED123/states/blob/main/README.md">States</li>
   <h3><li><a href="https://github.com/WorkED123/critical-infra/blob/main/README.md">Critical Infrastructures</li>
+  <h3><li><a href="https://docs.google.com/presentation/d/1uk2anVfw_KtuTOZNYueHEoZtvbUmmq13HhqXVGODu2M/edit?usp=sharing">Advance Cyber Orientation</li>
+  <h3><li><a href="https://docs.google.com/document/d/1u0peDpy5bYHzNUDP2mHHqrCBHDlqfST1j-gQrOKq-ro/edit?usp=sharing">Advanced Cyber Assessment</li></h3>
 </ul>
 
 
