@@ -67,20 +67,10 @@ With cyber adversaries attempting to sabotage key company platforms, you'll work
 Harness this 40-hour journey to fortify your cyber skills, network with professionals, and prepare for the challenges of the digital age.
 </p1>
 
-<h3>Resources</h3>
+<h2>Resources</h2>
 <ul>
-  <li>States</li><br>
-  <li>Critical Infrastructure</li>
-</ul>
-
-<h3><ins>States</ins></h3>
-<ul>
-<li>Arizona</li><br>
-<li>New York</li><br>
-<li><a href="https://github.com/WorkED123/california/blob/main/README.md"/>California</a></li><br>
-<li>Nevada</li><br>
-<li>Utah</li><br>
-<li>Virginia</li>
+  <h3><li><a href="https://github.com/WorkED123/states/blob/main/README.md">States</li>
+  <h3><li>Critical Infrastructure</li>
 </ul>
 
 
