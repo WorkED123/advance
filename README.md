@@ -71,7 +71,7 @@ Harness this 40-hour journey to fortify your cyber skills, network with professi
 <ul>
 <li>Arizona</li><br>
 <li>New York</li><br>
-<li>California</li><br>
+<li><a href="https://github.com/WorkED123/california/blob/main/README.md"/>California</a></li><br>
 <li>Nevada</li><br>
 <li>Utah</li><br>
 <li>Virginia</li>
