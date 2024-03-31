@@ -70,7 +70,7 @@ Harness this 40-hour journey to fortify your cyber skills, network with professi
 <h2>Resources</h2>
 <ul>
   <h3><li><a href="https://github.com/WorkED123/states/blob/main/README.md">States</li>
-  <h3><li>Critical Infrastructure</li>
+  <h3><li><a href="https://github.com/WorkED123/critical-infra/blob/main/README.md">Critical Infrastructures</li>
 </ul>
 
 
