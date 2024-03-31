@@ -67,6 +67,12 @@ With cyber adversaries attempting to sabotage key company platforms, you'll work
 Harness this 40-hour journey to fortify your cyber skills, network with professionals, and prepare for the challenges of the digital age.
 </p1>
 
+<h3>Resources</h3>
+<ul>
+  <li>States</li><br>
+  <li>Critical Infrastructure</li>
+</ul>
+
 <h3><ins>States</ins></h3>
 <ul>
 <li>Arizona</li><br>
@@ -77,5 +83,5 @@ Harness this 40-hour journey to fortify your cyber skills, network with professi
 <li>Virginia</li>
 </ul>
 
-<h3>Critical Infrastructure</h3>
+
 
